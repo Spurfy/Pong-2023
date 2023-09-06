@@ -849,7 +849,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d71f7cf87cf6e14409bcc3b24c6ba502, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  verticalMovementSpeed: 8
+  verticalMovementSpeed: 4
   maxYposition: 3.9
   upKey: 273
   downKey: 274
